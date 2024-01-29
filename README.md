@@ -1,12 +1,18 @@
 ## Setup
 
-### Dependencias de Desenvolvimento
+### Run
+
+```
+npm run dev
+```
+
+### Dev Dependencies
 
 ```
 npm install --save-dev nodemon prettier ts-loader typescript webpack webpack-shell-plugin-next
 ```
 
-### Configurações
+### Configurations
 
 scripts
 
