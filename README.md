@@ -9,7 +9,13 @@ npm run dev
 ### Dev Dependencies
 
 ```
-npm install --save-dev nodemon prettier ts-loader typescript webpack webpack-shell-plugin-next
+npm install --save-dev @faker-js/faker @types/express @types/node nodemon prettier ts-loader typescript webpack webpack-cli webpack-node-externals webpack-shell-plugin-next
+```
+
+### Dependencies
+
+```
+npm install --save express
 ```
 
 ### Configurations
